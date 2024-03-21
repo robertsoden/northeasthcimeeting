@@ -5,6 +5,7 @@ layout: home
 <img width="726" alt="pittsburg_vk" src="https://github.com/rsoden/northeasthcimeeting/assets/89540500/76cffaa9-6d63-4e6c-a036-cb67de90eb6d">
 </div>
 
+
 #### Registration
 
 The registration form has been circulated to authors of papers, works in progress, and doctoral colloquium submissions. Please complete this by April 5, 2024.
