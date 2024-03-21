@@ -123,7 +123,7 @@ Please see this guide for information on travel to Pittsburgh, additional hotel 
 
 3454 Forbes Avenue
 
-*CMU guests can use the code 5195130 for a 15% discount when booking online. Select ‘Special Rate’ when checking out and enter the code into the ‘Corporate Account’ field.
+Note: CMU guests can use the code 5195130 for a 15% discount when booking online. Select ‘Special Rate’ when checking out and enter the code into the ‘Corporate Account’ field.
 
 [Residence Inn Pittsburgh Oakland/University Place](https://www.marriott.com/en-us/hotels/pitrd-residence-inn-pittsburgh-oakland-university-place/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
