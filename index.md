@@ -1,8 +1,9 @@
 ---
 layout: home
 ---
-
+<div style="text-align: center;">
 <img width="726" alt="pittsburg_vk" src="https://github.com/rsoden/northeasthcimeeting/assets/89540500/76cffaa9-6d63-4e6c-a036-cb67de90eb6d">
+</div>
 
 #### Registration
 
