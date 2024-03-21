@@ -33,7 +33,7 @@ More precise information about the paper sessions will be posted closer to the e
 
 Please see this guide for information on travel to Pittsburgh, additional hotel recommendations, and other local tips:[ https://docs.google.com/presentation/d/1MkLFgvxeBz0LNB92T3rLqCjx2eKmXtyl3l3sWLIn9ZE/edit#slide=id.p](https://docs.google.com/presentation/d/1MkLFgvxeBz0LNB92T3rLqCjx2eKmXtyl3l3sWLIn9ZE/edit#slide=id.p) 
 
-_Hotels _
+##### Hotels 
 
 [Hampton Inn University Center](https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/?SEO_id=GMB-AMER-HX-PITOKHX&y_source=1_MjA4MzcyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
 
@@ -55,13 +55,13 @@ _Hotels _
 
 More options in nearby neighborhoods or Downtown can be found[ here](https://www.cmu.edu/parents/events/travel-and-hotels.html)!
 
-#### Covid Safety* 
+#### Covid Safety** 
 
 The organizing committee is dedicated to provide the best possible conference experience for all attendees. We are suggesting that all in-person attendees take a **rapid home COVID-19 test** on the **first** **morning they attend the event **to protect the health and safety of all involved. If the morning of is not feasible, please ensure this is as close to the event time as possible. If you cannot secure a test in time for the event, please contact the **organizers** and we can try to assist. 
 
 Masks will be available to participants upon request. Air purifiers will also be located in primary event rooms. 
 
-* Adapted from[ CSCW Northeast 2023](https://hci.princeton.edu/cscw-northeast/) 
+** Adapted from[ CSCW Northeast 2023](https://hci.princeton.edu/cscw-northeast/) 
 
 #### Organizing Team
 
