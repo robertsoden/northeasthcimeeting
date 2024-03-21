@@ -15,8 +15,8 @@ Opportunities for others to register will be shared more broadly soon.
 |            	|           	|                                       	|
 |------------	|-----------	|---------------------------------------	|
 | **May 8**  	| Morning   	| Doctoral Colloquium                   	|
-| **May 8**  	| Afternoon 	| Doctoral Colloquium/Works in Progress 	|
-| **May 8**  	| Evening   	| Optional Outing                       	|
+|            	| Afternoon 	| Doctoral Colloquium/Works in Progress 	|
+|            	| Evening   	| Optional Outing                       	|
 | **May 9**  	| Morning   	| Paper Sessions 1 & 2                  	|
 |            	| Lunch     	| Optional Workshop                     	|
 |            	| Afternoon 	| Paper Sessions 3 & 4                  	|
@@ -24,7 +24,6 @@ Opportunities for others to register will be shared more broadly soon.
 |            	| Lunch     	|                                       	|
 |            	| Afternoon 	| Paper Sessions 7 & 8                  	|
 |            	| Evening   	| Optional Outing to Museum and Brewery 	|
-
 
 More precise information about the paper sessions will be posted closer to the event. 
 
