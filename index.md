@@ -2,7 +2,9 @@
 layout: home
 ---
 
-This conference emerges in response to concerns about the impact of CHI 2024 in Hawaiʻi [https://www.chiinhawaii.info/](https://www.chiinhawaii.info/) which have prompted many researchers in the CHI community to reconsider submitting and traveling to CHI this year. Our goal is to create an alternative regional venue to highlight research that will be presented virtually at CHI or has been withheld due to these concerns, with a special emphasis on spotlighting the work of graduate students, pre-tenure faculty, and precariously employed academics from the Midwest and the eastern regions of North America. This mini-conference is also an experiment with a regional model to explore a  more accessible and sustainable alternative to global conference travel.
+<img width="726" alt="pittsburg_vk" src="https://github.com/rsoden/northeasthcimeeting/assets/89540500/76cffaa9-6d63-4e6c-a036-cb67de90eb6d">
+
+<! --This conference emerges in response to concerns about the impact of CHI 2024 in Hawaiʻi [https://www.chiinhawaii.info/](https://www.chiinhawaii.info/) which have prompted many researchers in the CHI community to reconsider submitting and traveling to CHI this year. Our goal is to create an alternative regional venue to highlight research that will be presented virtually at CHI or has been withheld due to these concerns, with a special emphasis on spotlighting the work of graduate students, pre-tenure faculty, and precariously employed academics from the Midwest and the eastern regions of North America. This mini-conference is also an experiment with a regional model to explore a  more accessible and sustainable alternative to global conference travel.
 
 #### Call For Papers:
 
@@ -55,5 +57,6 @@ We are recruiting additional volunteers to help organize. To join the team, fill
 - Maggie Jack, NYU
 - Alexandra To, Northeastern University
 - Priyank Chandra, University of Toronto
-- Meg Young, Data & Society
+- Meg Young, Data & Society -- !>
+
 
