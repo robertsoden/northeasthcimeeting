@@ -12,98 +12,18 @@ Opportunities for others to register will be shared more broadly soon.
 
 #### Schedule
 
-<table>
-  <tr>
-   <td><p style="text-align: right">
-May 8</p>
-
-   </td>
-   <td>Morning
-   </td>
-   <td>Doctoral Colloquium
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-May 8</p>
-
-   </td>
-   <td>Afternoon
-   </td>
-   <td>Doctoral Colloquium/Works in Progress
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-May 8</p>
-
-   </td>
-   <td>Evening
-   </td>
-   <td>Optional Outing
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-May 9</p>
-
-   </td>
-   <td>Morning
-   </td>
-   <td>Paper Sessions 1 & 2
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Lunch
-   </td>
-   <td>Optional Workshop
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Afternoon
-   </td>
-   <td>Paper Sessions 3 & 4
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-May 10</p>
-
-   </td>
-   <td>Morning
-   </td>
-   <td>Paper Sessions 5 & 6
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Lunch
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Afternoon
-   </td>
-   <td>Paper Sessions 7 & 8
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Evening
-   </td>
-   <td>Optional Outing to Museum and Brewery
-   </td>
-  </tr>
-</table>
+|        |           |                                       |
+| -----: | --------- | ------------------------------------- |
+|  May 8 | Morning   | Doctoral Colloquium                   |
+|  May 8 | Afternoon | Doctoral Colloquium/Works in Progress |
+|  May 8 | Evening   | Optional Outing                       |
+|  May 9 | Morning   | Paper Sessions 1 & 2                  |
+|        | Lunch     | Optional Workshop                     |
+|        | Afternoon | Paper Sessions 3 & 4                  |
+| May 10 | Morning   | Paper Sessions 5 & 6                  |
+|        | Lunch     |                                       |
+|        | Afternoon | Paper Sessions 7 & 8                  |
+|        | Evening   | Optional Outing to Museum and Brewery |
 
 
 More precise information about the paper sessions will be posted closer to the event. 
