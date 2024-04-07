@@ -8,9 +8,7 @@ layout: home
 
 #### Registration
 
-The registration form has been circulated to authors of papers, works in progress, and doctoral colloquium submissions. Please complete this by April 5, 2024.
-
-Opportunities for others to register will be shared more broadly soon.
+To register for the Northeast HCI meeting please fill out [this Google Form.](https://docs.google.com/forms/d/e/1FAIpQLSdrjdhEwX43GhSU_2gpOTcKyyHNDfoslMQ0rpyvQGlRyqtbMA/viewform) 
 
 #### Schedule
 
