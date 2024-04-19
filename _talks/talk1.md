@@ -1,5 +1,5 @@
 ---
-name: “The bus is nothing without us”\: Making Visible the Labor of Bus Operators amid the Ongoing Push Towards Transit Automation
+name: “The bus is nothing without us”":" Making Visible the Labor of Bus Operators amid the Ongoing Push Towards Transit Automation
 speakers:
   - Hunter Akridge
 categories:
