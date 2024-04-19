@@ -25,7 +25,7 @@ To register for the Northeast HCI meeting please fill out [this Google Form.](ht
 |            	| Afternoon 	| Paper Sessions 7 & 8                  	|
 |            	| Evening   	| Optional Outing to Museum and Brewery 	|
 
-For a draft schedule, please refer to [this link](https://docs.google.com/spreadsheets/d/11lqVKBmU--dPR0-1qv7mEu6_HNK9WPGvT89Kg8-7Nsg/edit?usp=sharing)
+For a draft schedule, please refer to [this link.](https://docs.google.com/spreadsheets/d/11lqVKBmU--dPR0-1qv7mEu6_HNK9WPGvT89Kg8-7Nsg/edit?usp=sharing)
 
 
 #### Logistics
