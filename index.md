@@ -18,7 +18,7 @@ To register for the Northeast HCI meeting please fill out [this Google Form.](ht
 |            	| Afternoon 	| Doctoral Colloquium/Works in Progress 	|
 |            	| Evening   	| Optional Outing                       	|
 | **May 9**  	| Morning   	| Paper Sessions 1 & 2                  	|
-|            	| Lunch     	| Optional Workshop                     	|
+|            	| Lunch     	|                      	                  |
 |            	| Afternoon 	| Paper Sessions 3 & 4                  	|
 | **May 10** 	| Morning   	| Paper Sessions 5 & 6                  	|
 |            	| Lunch     	|                                       	|
@@ -90,6 +90,10 @@ Masks will be available to participants upon request. Air purifiers will also be
 - Priyank Chandra, University of Toronto
 
 - Meg Young, Data & Society
+
+- David Gray Widder, Cornell Tech; Against Carceral Tech Pittsburgh
+
+- Steve Jackson, Cornell University
 
 #### Background
 
