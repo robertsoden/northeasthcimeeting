@@ -11,6 +11,7 @@ layout: home
 To register for the Northeast HCI meeting please fill out [this Google Form.](https://docs.google.com/forms/d/e/1FAIpQLSdrjdhEwX43GhSU_2gpOTcKyyHNDfoslMQ0rpyvQGlRyqtbMA/viewform) 
 
 #### Schedule
+**For a detailed schedule,** please refer to [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/11lqVKBmU--dPR0-1qv7mEu6_HNK9WPGvT89Kg8-7Nsg/edit?usp=sharing)
 
 |            	|           	|                                       	|
 |------------	|-----------	|---------------------------------------	|
@@ -26,7 +27,6 @@ To register for the Northeast HCI meeting please fill out [this Google Form.](ht
 |            	| Evening   	| Optional Outing to Museum and Brewery 	|
 
 
-**For a draft schedule,** please refer to [this Google Spreadsheet](https://docs.google.com/spreadsheets/d/11lqVKBmU--dPR0-1qv7mEu6_HNK9WPGvT89Kg8-7Nsg/edit?usp=sharing)
 
 
 #### Logistics
