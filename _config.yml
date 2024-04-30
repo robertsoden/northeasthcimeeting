@@ -70,7 +70,8 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
-
-  links:
-    - name: Works in Progress Info
-      relative_url: /worksinprogress/
+  
+  navigation:
+    links:
+      - name: Works in Progress Info
+        relative_url: /worksinprogress/
