@@ -105,4 +105,32 @@ In response to these concerns, a mini-conference is being organized in May 2024.
 
 This endeavor is seen as a means to not only alleviate potential hardships associated with reduced participation in CHI 2024 but also as an opportunity to experiment with more accessible and sustainable regional conferences—a concept beginning to be explored by the HCI community (e.g.,[ CSCW Northeast 2023](https://hci.princeton.edu/cscw-northeast/)). Our hope is that such regional conferences, if effective, can occur periodically in different places to promote sustainable academic practices into the future.
 
+#### Code of Conduct
 
+Our goal is to create a safe, respectful, and harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, class, or indigeneity. We do not tolerate harassment of participants in any form. Harassment includes, but is not limited to:
+
+- Unwelcome comments regarding a person’s lifestyle choices and practices
+- Deliberate intimidation or antagonism
+- Exclusionary jokes or comments
+- Unwelcome sexual attention or physical contact
+- Sustained disruption of meetings, events, or online discussion
+- Continued one-on-one communication after requests to cease
+- Comments that reinforce social structures of domination (related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, class, indigeneity)
+- Unwelcome photography or surveillance
+- Threats of violence
+
+We ask participants in to:
+
+- Exercise consideration and respect in your speech and actions.
+- Listen as much as you speak.
+- Make an effort to understand and learn from people who come from different contexts.
+- Avoid making assumptions.
+- Attempt collaboration before conflict.
+- Presume that everyone’s ideas, skills, and contributions have value.
+- Prioritize input from those who have been marginalized in CS spaces.
+  
+In addition, we ask participants to be aware of their own positions of privilege and oppression and engage accordingly; owning their voices and positions in ways that are healthy and open. If a participant violates the code of conduct, the organizers or a panel moderator may take any action they deem appropriate, including warning the offender or expulsion from events and online forums. Participants asked to stop any harassing behavior are expected to comply immediately.
+
+**If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Sarah Fox immediately at sarahf@andrew.cmu.edu (alternately, email Robert Soden at soden@cs.toronto.edu). Your question and identity will remain confidential to the organizing team unless you give consent. For a more immediate response during the meeting, include your phone number in your email.**
+
+This Code of Conduct is based on a code of conduct circulated by the Society for Social Studies of Science, which draws on one from Civic Tech Toronto, itself derived from the Recurse Center’s Social Rules, and the anti-harassment policy from the Geek Feminism Wiki. 
