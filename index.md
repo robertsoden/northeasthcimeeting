@@ -17,10 +17,10 @@ To register for the Northeast HCI meeting please fill out [this Google Form.](ht
 |------------	|-----------	|---------------------------------------	|
 | **May 8**  	| Morning   	| Doctoral Colloquium                   	|
 |            	| Afternoon 	| Doctoral Colloquium/ [Works in Progress](/worksinprogress/) 	|
-|            	| Evening   	| Optional Outing                       	|
 | **May 9**  	| Morning   	| Paper Sessions 1 & 2                  	|
 |            	| Lunch     	|                      	                  |
 |            	| Afternoon 	| Paper Sessions 3 & 4                  	|
+|            	| Evening   	| Optional Outing                       	|
 | **May 10** 	| Morning   	| Paper Sessions 5 & 6                  	|
 |            	| Lunch     	|                                       	|
 |            	| Afternoon 	| Paper Sessions 7 & 8                  	|
