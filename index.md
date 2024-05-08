@@ -105,7 +105,7 @@ In response to these concerns, a mini-conference is being organized in May 2024.
 
 This endeavor is seen as a means to not only alleviate potential hardships associated with reduced participation in CHI 2024 but also as an opportunity to experiment with more accessible and sustainable regional conferences—a concept beginning to be explored by the HCI community (e.g.,[ CSCW Northeast 2023](https://hci.princeton.edu/cscw-northeast/)). Our hope is that such regional conferences, if effective, can occur periodically in different places to promote sustainable academic practices into the future.
 
-#### Code of Conduct
+#### <a id="agreement"></a>Code of Conduct
 
 Our goal is to create a safe, respectful, and harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, class, or indigeneity. We do not tolerate harassment of participants in any form. Harassment includes, but is not limited to:
 
@@ -119,7 +119,7 @@ Our goal is to create a safe, respectful, and harassment-free environment for ev
 - Unwelcome photography or surveillance
 - Threats of violence
 
-We ask participants in to:
+We ask participants to:
 
 - Exercise consideration and respect in your speech and actions.
 - Listen as much as you speak.
